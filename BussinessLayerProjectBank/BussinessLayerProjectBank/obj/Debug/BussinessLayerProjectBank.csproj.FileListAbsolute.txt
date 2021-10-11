@@ -1,0 +1,6 @@
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\bin\Debug\BussinessLayerProjectBank.dll
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\bin\Debug\BussinessLayerProjectBank.pdb
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\obj\Debug\BussinessLayerProjectBank.csproj.AssemblyReference.cache
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\obj\Debug\BussinessLayerProjectBank.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\obj\Debug\BussinessLayerProjectBank.dll
+C:\Users\Adm\source\repos\BussinessLayerProjectBank\BussinessLayerProjectBank\obj\Debug\BussinessLayerProjectBank.pdb
